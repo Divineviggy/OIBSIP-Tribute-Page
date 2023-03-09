@@ -1,3 +1,3 @@
 #OASISINFOBYTE
-Task - Tribute Page
-Name :- Vignesh Bornak
+Task- Tribute Page
+Name:- Vignesh Bornak
